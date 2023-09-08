@@ -1,0 +1,2 @@
+checking if git push and pull work properly from directory 
+
